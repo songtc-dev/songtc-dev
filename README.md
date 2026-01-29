@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sskzy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songtc-dev&layout=compact)
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=songtc-dev&show_icons=true&locale=en&rank_icon=github" />
 -->
