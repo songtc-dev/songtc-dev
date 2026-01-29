@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm songtc-dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songtc-dev&layout=compact)
 <!-- 
@@ -9,13 +9,16 @@
 
 ---
 
-I'm an Open Source contributor and core maintainer at [songtc-dev]((https://github.com/songtc-dev))
+Focus on Java & Go backend development, specializing in building scalable microservices, distributed systems, and user-centric applications. 
+With hands-on experience in end-to-end project development (from architecture design to deployment).
 
 ### More about me:
 
-- 🔭 I’m currently working on rest
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: 690259811@qq.com
 <!--
-self-introduction
+🛠️ Tech Stack
+Core Skills
+Backend: Java (Spring Boot, Spring Cloud), Go (Gin, gRPC), Nacos, Zookeeper
+Databases & Storage: MySQL, Redis, ClickHouse, ElasticSearch (SQL optimization, index tuning)
+Middleware & Tools: Kafka/RocketMQ, Docker, Kubernetes, Jenkins, GitLab, Harbor
+Frontend & Full-Stack: Vue, Element-UI, ECharts, WeChat Mini Program, Node
 -->
