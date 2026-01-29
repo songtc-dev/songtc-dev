@@ -14,11 +14,10 @@ With hands-on experience in end-to-end project development (from architecture de
 
 ### More about me:
 
-<!--
 🛠️ Tech Stack
 Core Skills
 Backend: Java (Spring Boot, Spring Cloud), Go (Gin, gRPC), Nacos, Zookeeper
 Databases & Storage: MySQL, Redis, ClickHouse, ElasticSearch (SQL optimization, index tuning)
 Middleware & Tools: Kafka/RocketMQ, Docker, Kubernetes, Jenkins, GitLab, Harbor
 Frontend & Full-Stack: Vue, Element-UI, ECharts, WeChat Mini Program, Node
--->
+
